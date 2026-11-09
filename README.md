@@ -92,7 +92,7 @@ Population showed a consistent negative association.
 
 Regression models produced negative R² values, so reliable numeric prediction was not demonstrated.
 
-The decision tree achieved 63.9% test accuracy for lower/higher FDI classification.
+The decision tree achieved 79.3% test accuracy for lower/higher FDI classification.
 
 K-means identified 3 country-profile clusters.
 
